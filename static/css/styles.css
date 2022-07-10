@@ -1,0 +1,18 @@
+nav {
+    background: url("../img/mairo.jpg") fixed;
+    background-repeat: no-repeat;
+    background-size: contain;
+ 
+}
+
+
+ul :hover {
+  background-color: yellow;
+}
+
+
+
+span {
+	background-color:rgb(201, 76, 76);
+}
+
